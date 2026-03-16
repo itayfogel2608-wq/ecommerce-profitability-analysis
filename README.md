@@ -23,5 +23,5 @@ This project demonstrates an automated End-to-End Data Analysis workflow. I used
 
 ## Files in this Repository
 * `store_data.json`: The raw input data.
-* `sales_automation.py` (or your notebook name): The Python script handling the logic and Excel generation.
+* `sales_automation.py`: The Python script handling the logic and Excel generation.
 * `store_data.xlsx`: The final output containing the report and analytical models.
